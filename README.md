@@ -17,7 +17,7 @@
 - Intermediate 
 
 # Application Preview
-![Alt Text](https://media.giphy.com/media/thiCnQc62pzTmyOXjI/giphy.gif)
+![Alt Text](https://media.giphy.com/media/gJKh9qJA2ZfGhWEqY2/giphy.gif)
 
 # Liskov Substitution Principle (LSP) Example
 
